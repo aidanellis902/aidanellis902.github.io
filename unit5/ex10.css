@@ -1,0 +1,35 @@
+footer {
+	background-color: #87CEFA;
+	font-family:arial;
+	color: #111184;
+	padding: 10px;
+	border: 1px dashed darkblue;
+}
+
+#notice {
+	width:80%;
+	margin:auto;
+}
+
+.headline {
+	text-decoration-line: underline;
+	text-decoration-style: dotted;
+	text-decoration-color: red;
+	color: purple;
+}
+
+h1 {
+	text-shadow: 2px 2px 4px gray;
+	background-color: rgba (0, 0, 255, 0.5);
+	font-family: sans-serif;
+	font-size:4em;
+}
+
+#feature {
+	color:red;
+	font-size:0.75em;
+	font-family: Arial;
+	background-color:white;
+	width:80%;
+	text-shadow: 2px 2px 4px gray;
+}
